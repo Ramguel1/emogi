@@ -1,0 +1,123 @@
+*{
+    margin:10;
+    box-sizing: 20;
+    box-sizing: border-box
+  }
+
+     #c1{
+      background: rgb(249, 253, 0);
+       position: absolute;
+       top:100px ;
+       left:100px;
+       width:200px;
+       height:200px;
+      border:2px solid black;
+      display: inline-block;
+      border-radius: 100%;
+     }
+
+
+
+     #pupila1{
+      background:rgb(255, 255, 255);
+      position:relative;
+      top: 127px; 
+      left:125px;
+      width:40px;
+      height:40px;
+     border:2px solid rgb(255, 255, 255);
+     display: inline-block;
+     border-radius: 100%;
+   }
+   #pupila2{
+    background:rgb(255, 255, 255);
+    position:relative;
+    top: 127px; 
+    left:162px;
+    width:40px;
+    height:40px;
+   border:2px solid rgba(255, 255, 255);
+   display: inline-block;
+   border-radius: 100%;
+   }
+   
+     #ojo1{
+        background:rgba(0, 0, 0, 100);
+        position: absolute;
+        top: 130px; 
+        left:130px;
+        width: 50px;
+        height:50px;
+       border:2px solid black;
+       display: inline-block;
+       border-radius: 100%;
+     }
+     #ojo2{
+      background:rgba(0, 0, 0, 100);
+      position: absolute;
+        top: 130px; 
+        left:210px;
+        width: 50px;
+        height:50px;
+       border:2px solid black;
+       display: inline-block;
+       border-radius: 100%;
+     }
+ 
+
+     #centro1{
+      background:rgba(0, 0, 0, 100);
+      position: relative;
+      top: 120px; 
+      left:130px;
+      width: 20px;
+      height:30px;
+      border:2px solid black;
+      display: inline-block;
+     border-radius: 100%;
+     }
+
+     #centro2{
+      background:rgba(0, 0, 0, 100);
+      position: relative;
+      top: 120px; 
+      left:25px;
+      width: 20px;
+      height:30px;
+     border:2px solid black;
+     display: inline-block;
+     border-radius: 100%;
+     }
+     #boca{
+      background:rgb(255, 255, 255);
+      position: relative;
+      top: 130px; 
+      left:116px;
+      width: 150px;
+      height:90px;
+     border:10px solid rgb(7, 7, 7);
+     border-radius: 60%;
+     }
+     #boca2{
+      background: rgb(249, 253, 0);
+      position: absolute;
+      top: 189px; 
+      left:124px;
+      width: 150px;
+      height:40px;
+     border-radius: 0%;
+     border:10px solid rgb(0, 0, 0);
+
+     }
+     #boca3{
+      background: rgb(249, 253, 0);
+      position: absolute;
+      top: 180px; 
+      left:124px;
+      width: 150px;
+      height:40px;
+     border-radius: 0%;
+     border:10px solid rgb(249, 253, 0);
+
+     }
+
